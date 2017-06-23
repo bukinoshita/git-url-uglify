@@ -1,0 +1,20 @@
+{
+  "name": "git-url-uglify",
+  "version": "0.0.0",
+  "description": "Uglify git url",
+  "main": "index.js",
+  "repository": "git@github.com:bukinoshita/git-url-uglify.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "xo": {
+    "space": true,
+    "semicolon": false
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "xo": "^0.18.2"
+  }
+}
