@@ -27,6 +27,11 @@ returns an `object`.
 Type: `string`<br/>
 Required
 
+## Related
+
+- [is-github-repo](https://github.com/bukinoshita/is-github-repo) — Checks if string is a git repository
+- [git-url-prettify](https://github.com/bukinoshita/git-url-prettify) — Prettify git url
+
 ## License
 
 MIT © [Bu Kinoshita](https://bukinoshita.io)
