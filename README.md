@@ -12,7 +12,7 @@ $ npm install --save git-url-uglify
 ```js
 const gitUrlUglify = require('git-url-uglify')
 
-const { owner, repository } = gitUrlUglify('https://github.com/bukinoshita/git-url-uglify.git')
+gitUrlUglify('https://github.com/bukinoshita/git-url-uglify.git')
 // => { owner: 'bukinoshita', repository: 'git-url-uglify' }
 ```
 
