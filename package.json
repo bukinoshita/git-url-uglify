@@ -9,6 +9,17 @@
   "scripts": {
     "test": "xo && ava"
   },
+  "keywords": [
+    "git",
+    "github",
+    "url",
+    "uglify",
+    "ugly",
+    "ssh",
+    "https",
+    "repository",
+    "repo"
+  ],
   "xo": {
     "space": true,
     "semicolon": false,
